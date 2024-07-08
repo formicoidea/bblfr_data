@@ -18448,6 +18448,37 @@ var data = {
         },
       ],
     },
+    {
+      since: '2024-07-08',
+      name: 'Mathieu Jolly',
+      bio:
+        'Traducteur du livre Wardley Maps - Formateur à la cartographie de chaîne de valeur - Facilitateur de prise de décision stratégique',
+      websites: [
+        {
+          name: 'Website',
+          url: 'https://wardleymaps.co',
+        },
+        {
+          name: 'LinkedIn',
+          url: 'https://www.linkedin.com/in/mathieu-jolly/',
+        },
+      ],
+      location: 'Nantes',
+      sessions: [
+        {
+          title: 'Découvrez les cartes de Wardley',
+          abstract:
+            "Vous avez peut être entendu parlé de Simon Wardley, l'auteur de la méthode des cartes de Wardley. Faites un tour d'horizon de cette méthode avec un spécialiste français du sujet. Vous en ressortirez avec une idée claire de ce que les cartes de Wardley peuvent pour vous.",
+          tags: ['wardley maps', 'chaine de valeur', 'stratégie'],
+          lang: ['fr','en'],
+        },
+      ],
+      cities: ['Nantes'],
+      contacts: {
+        linkedin: 'mathieu-jolly',
+        mail: 'mathieu@wardleymaps.co',
+      },
+    },
   ],
   cities: {
     'Aix-en-Provence': {
